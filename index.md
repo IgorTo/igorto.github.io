@@ -4,6 +4,6 @@ I like to solve mathematical as well as engineering problems, and translate the 
 # Teaching
 * Scientific Computing III (PDEs: FDM and FEM, Linear systems: iterative methods), Lecturer, Winter 2021
 * Programming in Python, Lecturer, Autumn 2020
-* Scientific Computing bridging course (ODEs), Lecturer, Autumn 2020
+* Scientific Computing bridging course (Linear systems, ODEs), Lecturer, Autumn 2020
 * Scientific Computing II (ODEs), Teaching assistant, Spring 2019
 * Scientific Computing II, Teaching assistant, Winter 2018
