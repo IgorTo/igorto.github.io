@@ -15,6 +15,6 @@ I like to solve mathematical as well as engineering problems, and translate the 
 - A first meshless approach to simulation of the elastic behaviour of the diaphragm. Lecture notes in computational science and engineering, 2020.
 
 # Education
-- Ph.D. Scientific Computing with specialization in Numerical Analysis, Dept. of Information Technology, Uppsala University, Sweden
-- M.Sc. Computational Science and Engineering, Dept. of Informatics, Technical University Munich
-- B.Sc. Electrical Engineering, University of Ljubljana
+- (2017- ) Ph.D. Scientific Computing with specialization in Numerical Analysis, Uppsala University, Sweden
+- (2014-2017) M.Sc. Computational Science and Engineering, Technical University Munich, Germany
+- (2011-2014) B.Sc. Electrical Engineering, University of Ljubljana, Slovenia
