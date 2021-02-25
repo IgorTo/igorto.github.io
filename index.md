@@ -7,3 +7,9 @@ I like to solve mathematical as well as engineering problems, and translate the 
 * Scientific Computing bridging course (Linear systems, ODEs), Lecturer, Autumn 2020
 * Scientific Computing II (ODEs), Teaching assistant, Spring 2019
 * Scientific Computing II, Teaching assistant, Winter 2018
+
+# Publications
+- A least squares radial basis function finite difference method with improved stability properties. SIAM Journal on Scientific Computing, 2021.
+- An unfitted radial basis function generated finite differencemethod applied to thoracic diaphragm simulations. Preprint, 2021.
+- An unfitted RBF-FD method in a least-squares setting for elliptic PDEs on complex geometries. Preprint, 2020.
+- A first meshless approach to simulation of the elastic behaviour of the diaphragm. Lecture notes in computational science and engineering, 2020.
