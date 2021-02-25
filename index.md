@@ -4,7 +4,7 @@ I like to solve mathematical as well as engineering problems, and translate the 
 # Teaching
 * Lecturer, Scientific Computing III (PDEs: FDM and FEM, Linear systems: iterative methods), Winter 2021. Uppsala Univ.
 * Lecturer, Programming in Python, Lecturer, Autumn 2020. Uppsala Univ.
-* Lecturer, Scientific Computing bridging course (Linear systems, ODEs), Lecturer, Autumn 2020. Uppsala Univ.
+* Lecturer, Scientific Computing bridging course (Linear systems, ODEs), Autumn 2020. Uppsala Univ.
 * Teaching assistant, Scientific Computing II (ODEs), Spring 2019. Uppsala Univ.
 * Teaching assistant, Scientific Computing II, Winter 2018. Uppsala Univ.
 * Teaching assistant, Computer lab, 2012-2014. University of Ljubljana, Dept. Mathematics and Physics.
