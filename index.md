@@ -26,4 +26,4 @@ I like to solve mathematical as well as engineering problems, and translate the 
 - SIAM CSE19, Spokane, USA, February 2019, minisymposium talk
 - WCCM 18, New York, USA, July 2018, minisymposium talk
 - ICOSAHOM 18, London, UK, July 2018, minisymposium talk
-- Kernel-Based PDE methods, ICERM, Providence, USA, July 2017, poster
+- Kernel-Based PDE methods, ICERM, Providence, USA, July 2017, poster 
