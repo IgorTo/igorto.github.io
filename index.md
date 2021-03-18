@@ -16,8 +16,8 @@ I like to solve mathematical as well as engineering problems, and translate the 
 
 # Publications
 - A least squares radial basis function finite difference method with improved stability properties. SIAM Journal on Scientific Computing, 2021.
+- An unfitted RBF-FD method in a least-squares setting for elliptic PDEs on complex geometries. Journal of Computational Physics, 2021.
 - An unfitted radial basis function generated finite difference method applied to thoracic diaphragm simulations. Preprint, 2021.
-- An unfitted RBF-FD method in a least-squares setting for elliptic PDEs on complex geometries. Preprint, 2020.
 - A first meshless approach to simulation of the elastic behaviour of the diaphragm. Springer, Lecture notes in Computational Science and Engineering, 2020.
 
 # Conferences
