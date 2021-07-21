@@ -21,6 +21,7 @@ I like to solve mathematical as well as engineering problems, and translate the 
 - A first meshless approach to simulation of the elastic behaviour of the diaphragm. Springer, Lecture notes in Computational Science and Engineering, 2020.
 
 # Conferences
+- ICOSAHOM 20/21, Online, July 2021, contributed talk
 - SIAM CSE21, Online, March 2021, contributed talk
 - DRWA 19, Alba di Canazei, Italy, September 2019, talk
 - SIAM CSE19, Spokane, USA, February 2019, minisymposium talk
