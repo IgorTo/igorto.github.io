@@ -15,12 +15,14 @@ I like to solve mathematical as well as engineering problems, and translate the 
 * Teaching assistant, Computer lab, 2012-2014. University of Ljubljana, Dept. Mathematics and Physics.
 
 # Publications
+- Residual viscosity stabilized RBF-FD methods for solving nonlinear conservation laws. Preprint, 2021.
+- An unfitted radial basis function generated finite difference method applied to thoracic diaphragm simulations. Preprint, 2021.
 - A least squares radial basis function finite difference method with improved stability properties. SIAM Journal on Scientific Computing, 2021.
 - An unfitted RBF-FD method in a least-squares setting for elliptic PDEs on complex geometries. Journal of Computational Physics, 2021.
-- An unfitted radial basis function generated finite difference method applied to thoracic diaphragm simulations. Preprint, 2021.
 - A first meshless approach to simulation of the elastic behaviour of the diaphragm. Springer, Lecture notes in Computational Science and Engineering, 2020.
 
 # Conferences
+- DWCAA 21, Online, September 2021, contributed talk (best talk prize)
 - ICOSAHOM 20/21, Online, July 2021, contributed talk
 - SIAM CSE21, Online, March 2021, contributed talk
 - DRWA 19, Alba di Canazei, Italy, September 2019, talk
