@@ -15,6 +15,7 @@ I like to solve mathematical as well as engineering problems, and translate the 
 * Teaching assistant, Computer lab, 2012-2014. University of Ljubljana, Dept. Mathematics and Physics.
 
 # Publications
+- Stability estimates for radial basis function methods applied to time-dependent hyperbolic PDEs. Preprint, 2021.
 - Residual viscosity stabilized RBF-FD methods for solving nonlinear conservation laws. Preprint, 2021.
 - An unfitted radial basis function generated finite difference method applied to thoracic diaphragm simulations. Preprint, 2021.
 - A least squares radial basis function finite difference method with improved stability properties. SIAM Journal on Scientific Computing, 2021.
