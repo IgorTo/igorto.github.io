@@ -1,5 +1,5 @@
 # About me
-I hold a Ph.D. in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden, and an M.Sc. in Computational Science and Engineering from Technical University Munich, Germany. My research was focused on analysis and development of numerical algorithms for solving partial differential equations. Currently I work for Qamcom Research and Technology as Sr. Software and Algorithm developer.
+I hold a Ph.D. in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden. My research was focused on analysis and development of numerical algorithms for solving partial differential equations. Currently I work for Qamcom Research and Technology as Sr. Software and Algorithm developer.
 
 # Education
 - (2017-2022) Ph.D. Scientific Computing with specialization in Numerical Analysis, Uppsala University, Sweden
