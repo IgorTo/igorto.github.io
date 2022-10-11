@@ -1,5 +1,5 @@
 # About me
-I hold a Ph.D. in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden. My research was focused on analysis and development of numerical algorithms for solving partial differential equations. Currently I work for Qamcom Research and Technology as Sr. Software and Algorithm developer.
+I hold a Ph.D. in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden. My research focused on analysis and development of numerical algorithms for solving partial differential equations. Currently I work for Qamcom Research and Technology as Sr. Software and Algorithm developer.
 
 # Education
 - (2017-2022) Ph.D. Scientific Computing with specialization in Numerical Analysis, Uppsala University, Sweden
@@ -16,7 +16,7 @@ I hold a Ph.D. in Scientific Computing with specialization in Numerical Analysis
 
 # Publications
 - Stability estimates for radial basis function methods applied to time-dependent hyperbolic PDEs. Preprint, 2021.
-- Residual viscosity stabilized RBF-FD methods for solving nonlinear conservation laws. Preprint, 2021.
+- Residual viscosity stabilized RBF-FD methods for solving nonlinear conservation laws. Journal of Scientific Computing, 2022.
 - An unfitted radial basis function generated finite difference method applied to thoracic diaphragm simulations. Journal of Computational Physics, 2022.
 - A least squares radial basis function finite difference method with improved stability properties. SIAM Journal on Scientific Computing, 2021.
 - An unfitted RBF-FD method in a least-squares setting for elliptic PDEs on complex geometries. Journal of Computational Physics, 2021.
