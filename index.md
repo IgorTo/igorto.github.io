@@ -1,7 +1,7 @@
 # About me
-Currently I am a postdoctoral researcher at Department of Mathematics, Stockholm University. 
+Currently I am a postdoctoral researcher at Department of Mathematics, Stockholm University. My research is focused on analyzing and developing numerical algorithms for solving partial differential equations.
 
-I hold a Ph.D. degree in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden. My research is focused on analyzing and developing numerical algorithms for solving partial differential equations.
+I hold a Ph.D. degree in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden. 
 
 Previously worked at Qamcom Research and Technology as Sr. Software and Algorithm developer.
 
@@ -11,6 +11,7 @@ Previously worked at Qamcom Research and Technology as Sr. Software and Algorith
 - (2011-2014) B.Sc. Electrical Engineering, University of Ljubljana, Slovenia
 
 # Teaching
+* Lecturer, Programming for Physicists, Autumn 2023. Stockholm Univ.
 * Lecturer, Scientific Computing III (PDEs: FDM and FEM, Linear systems: iterative methods), Winter 2021. Uppsala Univ.
 * Lecturer, Programming in Python, Autumn 2020. Uppsala Univ.
 * Lecturer, Scientific Computing bridging course (Linear systems, ODEs), Autumn 2020. Uppsala Univ.
