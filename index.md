@@ -1,5 +1,5 @@
 # About me
-Currently I am a postdoctoral researcher at Department of Mathematics, Stockholm University. My research is focused on analyzing and developing numerical algorithms for solving partial differential equations.
+Currently I am a postdoctoral researcher at Department of Mathematics, Stockholm University. My research is focused on analyzing and developing numerical algorithms for solving partial differential equations that find applications in continental ice sheet modeling.
 
 I hold a Ph.D. degree in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden. 
 
