@@ -3,7 +3,7 @@ Currently I am a postdoctoral researcher at Department of Mathematics, Stockholm
 
 I hold a Ph.D. degree in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden. 
 
-Previously worked at Qamcom Research and Technology as Sr. Software and Algorithm developer.
+I previously held a position in industry where I worked as Sr. Software and Algorithm developer at Qamcom Research and Technology .
 
 # Education
 - (2017-2022) Ph.D. Scientific Computing with specialization in Numerical Analysis, Uppsala University, Sweden
