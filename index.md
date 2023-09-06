@@ -1,5 +1,7 @@
 # About me
-Currently I am a postdoctoral researcher at Department of Mathematics, Stockholm University. I hold a Ph.D. degree in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden. My research is focused on analyzing and developing numerical algorithms for solving partial differential equations.
+Currently I am a postdoctoral researcher at Department of Mathematics, Stockholm University. 
+
+I hold a Ph.D. degree in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden. My research is focused on analyzing and developing numerical algorithms for solving partial differential equations.
 
 Previously worked at Qamcom Research and Technology as Sr. Software and Algorithm developer.
 
