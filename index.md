@@ -1,3 +1,10 @@
+# Research keywords
+- Partial differential equations
+- Finite element methods
+- Radial basis function methods
+- Computational glaciology
+- Computational biomechanics
+
 # About me
 Currently I am a postdoctoral researcher at Department of Mathematics, Stockholm University. My research is focused on analyzing and developing numerical algorithms for solving partial differential equations that find applications in continental ice sheet modeling.
 
