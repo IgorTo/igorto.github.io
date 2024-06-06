@@ -52,8 +52,8 @@ I previously held a position in industry where I worked as Senior Software and A
 # Service to the community
 - Co-organizer of Seminar in Numerical Analysis (KTH + Stockholm University). (2023 - ongoing)
 - Referee for:
-    - Journal of Computational Physics,
     - Computers and Mathematics,
+    - Journal of Computational Physics,
     - Engineering Analysis with Boundary Elements.
 - SIAM Student chapter (Uppsala) officer:
     - Vice-President (2017-2018),
