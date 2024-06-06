@@ -54,4 +54,6 @@ I previously held a position in industry where I worked as Senior Software and A
     - Journal of Computational Physics,
     - Computers and Mathematics,
     - Engineering Analysis with Boundary Elements.
-- SIAM Student chapter (Uppsala): vice-president (2017-2018), secretary (2019-2022).
+- SIAM Student chapter (Uppsala) officer:
+    - vice-president (2017-2018),
+    - secretary (2019-2022).
