@@ -6,7 +6,7 @@ I hold a Ph.D. degree in Scientific Computing with specialization in Numerical A
 I previously held a position in industry where I worked as Senior Software and Algorithm developer at Qamcom Research and Technology.
 
 # Research interests
-- Theoretical analysis of numerical methods that "work but lack mathematical rigour".
+- Theoretical and computational analysis of numerical methods.
 - Radial basis function methods.
 - Finite element methods.
 - PDE model coupling.
