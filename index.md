@@ -6,18 +6,17 @@ I hold a Ph.D. degree in Scientific Computing with specialization in Numerical A
 I previously held a position in industry where I worked as Senior Software and Algorithm developer at Qamcom Research and Technology.
 
 # Research interests
-- Theoretical analysis of numerical algorithms that "work but lack mathematical rigour".
-- Partial differential equations.
-- Finite element methods.
+- Theoretical analysis of numerical methods that "work but lack mathematical rigour".
 - Radial basis function methods.
+- Finite element methods.
 - PDE model coupling.
 - Computational glaciology.
 - Computational biomechanics.
 
 # Education
-- (2017-2022) Ph.D. Scientific Computing with specialization in Numerical Analysis, Uppsala University, Sweden
-- (2014-2017) M.Sc. Computational Science and Engineering, Technical University Munich, Germany
-- (2011-2014) B.Sc. Electrical Engineering, University of Ljubljana, Slovenia
+- (2017-2022) Ph.D. Scientific Computing with specialization in Numerical Analysis, Uppsala University, Sweden.
+- (2014-2017) M.Sc. Computational Science and Engineering, Technical University Munich, Germany.
+- (2011-2014) B.Sc. Electrical Engineering, University of Ljubljana, Slovenia.
 
 # Teaching
 * Lecturer, Numerical Analysis I, Spring 2024. Stockholm Univ.
@@ -41,22 +40,22 @@ I previously held a position in industry where I worked as Senior Software and A
 1. A first meshless approach to simulation of the elastic behaviour of the diaphragm. Springer, Lecture notes in Computational Science and Engineering, 2020.
 
 # Bachelor Thesis supervision
-- Nasiha Häfener, Stabilizing Glacier Simulations: Coupling Free-Surface Stabilization Algorithm to the Positivity Preserving Surface Constraint in FeniCS, Stockholm University, Sweden
-- Joakim Heumann, A Machine Learning Model Predicting Errors in Simplified Continental Ice Sheet Simulations, KTH, Sweden
+- Nasiha Häfener, Stabilizing Glacier Simulations: Coupling Free-Surface Stabilization Algorithm to the Positivity Preserving Surface Constraint in FeniCS, Stockholm University, Sweden.
+- Joakim Heumann, A Machine Learning Model Predicting Errors in Simplified Continental Ice Sheet Simulations, KTH, Sweden.
 
 # Conferences
-- FEniCS 2024, Oslo, June 2024, contributed talk
-- ESCO 2024, Pilsen, June 2024, invited minisymposium talk
-- EGU Nordic Branch, Helsinki, November 2023, contributed talk
-- SIAM CSE22, Online, July 2022, invited minisymposium talk
-- DWCAA 21, Online, September 2021, talk **(best talk prize)**
-- ICOSAHOM 20/21, Online, July 2021, contributed talk
-- SIAM CSE21, Online, March 2021, contributed talk
-- DRWA 19, Alba di Canazei, Italy, September 2019, talk
-- SIAM CSE19, Spokane, USA, February 2019, invited minisymposium talk
-- WCCM 18, New York, USA, July 2018, invited minisymposium talk
-- ICOSAHOM 18, London, UK, July 2018, invited minisymposium talk
-- Kernel-Based PDE methods, ICERM, Providence, USA, July 2017, poster
+- FEniCS 2024, Oslo, June 2024, contributed talk.
+- ESCO 2024, Pilsen, June 2024, invited minisymposium talk.
+- EGU Nordic Branch, Helsinki, November 2023, contributed talk.
+- SIAM CSE22, Online, July 2022, invited minisymposium talk.
+- DWCAA 21, Online, September 2021, talk **(best talk prize)**.
+- ICOSAHOM 20/21, Online, July 2021, contributed talk.
+- SIAM CSE21, Online, March 2021, contributed talk.
+- DRWA 19, Alba di Canazei, Italy, September 2019, talk.
+- SIAM CSE19, Spokane, USA, February 2019, invited minisymposium talk.
+- WCCM 18, New York, USA, July 2018, invited minisymposium talk.
+- ICOSAHOM 18, London, UK, July 2018, invited minisymposium talk.
+- Kernel-Based PDE methods, ICERM, Providence, USA, July 2017, poster.
 
 # Referee work
 - Computers and Mathematics,
