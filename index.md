@@ -11,6 +11,7 @@ I previously held a position in industry where I worked as Sr. Software and Algo
 - (2011-2014) B.Sc. Electrical Engineering, University of Ljubljana, Slovenia
 
 # Teaching
+* Lecturer, Numerical Analysis I, Spring 2024. Stockholm Univ.
 * Lecturer, Programming for Physicists, Autumn 2023. Stockholm Univ.
 * Lecturer, Scientific Computing III (PDEs: FDM and FEM, Linear systems: iterative methods), Winter 2021. Uppsala Univ.
 * Lecturer, Programming in Python, Autumn 2020. Uppsala Univ.
@@ -20,6 +21,9 @@ I previously held a position in industry where I worked as Sr. Software and Algo
 * Teaching assistant, Computer lab, 2012-2014. University of Ljubljana, Dept. Mathematics and Physics.
 
 # Publications
+- Weak form Shallow Ice Approximation models with an improved time step restriction. Preprint, 2024.
+- An RBF partition of unity method for geometry reconstruction and PDE solution in thin structures. Preprint, 2024.
+- Meshfree RBF–FD methods for numerical simulation of PDE problems. Journal of Physics, 2024.
 - Stability estimates for radial basis function methods applied to time-dependent hyperbolic PDEs. Preprint, 2021.
 - Residual viscosity stabilized RBF-FD methods for solving nonlinear conservation laws. Journal of Scientific Computing, 2022.
 - An unfitted radial basis function generated finite difference method applied to thoracic diaphragm simulations. Journal of Computational Physics, 2022.
@@ -28,8 +32,11 @@ I previously held a position in industry where I worked as Sr. Software and Algo
 - A first meshless approach to simulation of the elastic behaviour of the diaphragm. Springer, Lecture notes in Computational Science and Engineering, 2020.
 
 # Conferences
+- FeNIcS 2024, Oslo, June 2024, contributed talk
+- ESCO 2024, Pilsen, June 2024, invited minisymposium talk
+- EGU Nordic Branch, Helsinki, November 2023, contributed talk
 - SIAM CSE22, Online, July 2022, invited minisymposium talk
-- DWCAA 21, Online, September 2021, talk (best talk prize)
+- DWCAA 21, Online, September 2021, talk **(best talk prize)**
 - ICOSAHOM 20/21, Online, July 2021, contributed talk
 - SIAM CSE21, Online, March 2021, contributed talk
 - DRWA 19, Alba di Canazei, Italy, September 2019, talk
