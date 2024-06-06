@@ -3,7 +3,7 @@ Currently I am a postdoctoral researcher at Department of Mathematics, Stockholm
 
 I hold a Ph.D. degree in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden. 
 
-I previously held a position in industry where I worked as Sr. Software and Algorithm developer at Qamcom Research and Technology .
+I previously held a position in industry where I worked as Senior Software and Algorithm developer at Qamcom Research and Technology.
 
 # Education
 - (2017-2022) Ph.D. Scientific Computing with specialization in Numerical Analysis, Uppsala University, Sweden
@@ -31,6 +31,10 @@ I previously held a position in industry where I worked as Sr. Software and Algo
 - An unfitted RBF-FD method in a least-squares setting for elliptic PDEs on complex geometries. Journal of Computational Physics, 2021.
 - A first meshless approach to simulation of the elastic behaviour of the diaphragm. Springer, Lecture notes in Computational Science and Engineering, 2020.
 
+# Thesis supervision
+- Nasiha Häfener, Stabilizing Glacier Simulations: Coupling Free-Surface Stabilization Algorithm to the Positivity Preserving Surface Constraint in FeniCS, Stockholm University, Sweden
+- Joakim Heumann, A Machine Learning Model Predicting Errors in Simplified Continental Ice Sheet Simulations, KTH, Sweden
+
 # Conferences
 - FeNIcS 2024, Oslo, June 2024, contributed talk
 - ESCO 2024, Pilsen, June 2024, invited minisymposium talk
@@ -43,4 +47,8 @@ I previously held a position in industry where I worked as Sr. Software and Algo
 - SIAM CSE19, Spokane, USA, February 2019, invited minisymposium talk
 - WCCM 18, New York, USA, July 2018, invited minisymposium talk
 - ICOSAHOM 18, London, UK, July 2018, invited minisymposium talk
-- Kernel-Based PDE methods, ICERM, Providence, USA, July 2017, poster 
+- Kernel-Based PDE methods, ICERM, Providence, USA, July 2017, poster
+
+# Service to community
+- Reviewer for: Journal of Computational Physics, Computers and Mathematics, Engineering Analysis with Boundary Elements.
+- SIAM Student chapter (Uppsala): vice-president (2017-2018), secretary (2019-2022).
