@@ -50,10 +50,11 @@ I previously held a position in industry where I worked as Senior Software and A
 - Kernel-Based PDE methods, ICERM, Providence, USA, July 2017, poster
 
 # Service to the community
+- Co-organizer of Seminar in Numerical Analysis (KTH + Stockholm University).
 - Referee for:
     - Journal of Computational Physics,
     - Computers and Mathematics,
     - Engineering Analysis with Boundary Elements.
 - SIAM Student chapter (Uppsala) officer:
-    - vice-president (2017-2018),
-    - secretary (2019-2022).
+    - Vice-President (2017-2018),
+    - Secretary (2019-2022).
