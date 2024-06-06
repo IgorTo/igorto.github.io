@@ -36,7 +36,7 @@ I previously held a position in industry where I worked as Senior Software and A
 - Joakim Heumann, A Machine Learning Model Predicting Errors in Simplified Continental Ice Sheet Simulations, KTH, Sweden
 
 # Conferences
-- FeNIcS 2024, Oslo, June 2024, contributed talk
+- FEniCS 2024, Oslo, June 2024, contributed talk
 - ESCO 2024, Pilsen, June 2024, invited minisymposium talk
 - EGU Nordic Branch, Helsinki, November 2023, contributed talk
 - SIAM CSE22, Online, July 2022, invited minisymposium talk
