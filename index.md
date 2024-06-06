@@ -5,6 +5,15 @@ I hold a Ph.D. degree in Scientific Computing with specialization in Numerical A
 
 I previously held a position in industry where I worked as Senior Software and Algorithm developer at Qamcom Research and Technology.
 
+# Research interests
+- Theoretical analysis of numerical algorithms that "work but lack mathematical rigour".
+- Partial differential equations.
+- Finite element methods.
+- Radial basis function methods.
+- PDE model coupling.
+- Computational glaciology.
+- Computational biomechanics.
+
 # Education
 - (2017-2022) Ph.D. Scientific Computing with specialization in Numerical Analysis, Uppsala University, Sweden
 - (2014-2017) M.Sc. Computational Science and Engineering, Technical University Munich, Germany
