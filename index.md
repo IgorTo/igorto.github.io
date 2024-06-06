@@ -31,7 +31,7 @@ I previously held a position in industry where I worked as Senior Software and A
 - An unfitted RBF-FD method in a least-squares setting for elliptic PDEs on complex geometries. Journal of Computational Physics, 2021.
 - A first meshless approach to simulation of the elastic behaviour of the diaphragm. Springer, Lecture notes in Computational Science and Engineering, 2020.
 
-# Thesis supervision
+# Bachelor Thesis supervision
 - Nasiha Häfener, Stabilizing Glacier Simulations: Coupling Free-Surface Stabilization Algorithm to the Positivity Preserving Surface Constraint in FeniCS, Stockholm University, Sweden
 - Joakim Heumann, A Machine Learning Model Predicting Errors in Simplified Continental Ice Sheet Simulations, KTH, Sweden
 
@@ -49,6 +49,6 @@ I previously held a position in industry where I worked as Senior Software and A
 - ICOSAHOM 18, London, UK, July 2018, invited minisymposium talk
 - Kernel-Based PDE methods, ICERM, Providence, USA, July 2017, poster
 
-# Service to community
-- Reviewer for: Journal of Computational Physics, Computers and Mathematics, Engineering Analysis with Boundary Elements.
+# Service to the community
+- Referee for: Journal of Computational Physics, Computers and Mathematics, Engineering Analysis with Boundary Elements.
 - SIAM Student chapter (Uppsala): vice-president (2017-2018), secretary (2019-2022).
