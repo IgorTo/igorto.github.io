@@ -21,15 +21,15 @@ I previously held a position in industry where I worked as Senior Software and A
 * Teaching assistant, Computer lab, 2012-2014. University of Ljubljana, Dept. Mathematics and Physics.
 
 # Publications
-- Weak form Shallow Ice Approximation models with an improved time step restriction. Preprint, 2024.
-- An RBF partition of unity method for geometry reconstruction and PDE solution in thin structures. Preprint, 2024.
-- Meshfree RBF–FD methods for numerical simulation of PDE problems. Journal of Physics, 2024.
-- Stability estimates for radial basis function methods applied to time-dependent hyperbolic PDEs. Preprint, 2021.
-- Residual viscosity stabilized RBF-FD methods for solving nonlinear conservation laws. Journal of Scientific Computing, 2022.
-- An unfitted radial basis function generated finite difference method applied to thoracic diaphragm simulations. Journal of Computational Physics, 2022.
-- A least squares radial basis function finite difference method with improved stability properties. SIAM Journal on Scientific Computing, 2021.
-- An unfitted RBF-FD method in a least-squares setting for elliptic PDEs on complex geometries. Journal of Computational Physics, 2021.
-- A first meshless approach to simulation of the elastic behaviour of the diaphragm. Springer, Lecture notes in Computational Science and Engineering, 2020.
+1. Weak form Shallow Ice Approximation models with an improved time step restriction. Preprint, 2024.
+1. An RBF partition of unity method for geometry reconstruction and PDE solution in thin structures. Preprint, 2024.
+1. Meshfree RBF–FD methods for numerical simulation of PDE problems. Journal of Physics, 2024.
+1. Stability estimates for radial basis function methods applied to time-dependent hyperbolic PDEs. Preprint, 2021.
+1. Residual viscosity stabilized RBF-FD methods for solving nonlinear conservation laws. Journal of Scientific Computing, 2022.
+1. An unfitted radial basis function generated finite difference method applied to thoracic diaphragm simulations. Journal of Computational Physics, 2022.
+1. A least squares radial basis function finite difference method with improved stability properties. SIAM Journal on Scientific Computing, 2021.
+1. An unfitted RBF-FD method in a least-squares setting for elliptic PDEs on complex geometries. Journal of Computational Physics, 2021.
+1. A first meshless approach to simulation of the elastic behaviour of the diaphragm. Springer, Lecture notes in Computational Science and Engineering, 2020.
 
 # Bachelor Thesis supervision
 - Nasiha Häfener, Stabilizing Glacier Simulations: Coupling Free-Surface Stabilization Algorithm to the Positivity Preserving Surface Constraint in FeniCS, Stockholm University, Sweden
