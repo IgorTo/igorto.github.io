@@ -50,7 +50,7 @@ I previously held a position in industry where I worked as Senior Software and A
 - Kernel-Based PDE methods, ICERM, Providence, USA, July 2017, poster
 
 # Service to the community
-- Co-organizer of Seminar in Numerical Analysis (KTH + Stockholm University).
+- Co-organizer of Seminar in Numerical Analysis (KTH + Stockholm University). (2023-)
 - Referee for:
     - Journal of Computational Physics,
     - Computers and Mathematics,
