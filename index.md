@@ -57,7 +57,7 @@ I previously held a position in industry where I worked as Senior Software and A
 - ICOSAHOM 18, London, UK, July 2018, invited minisymposium talk.
 - Kernel-Based PDE methods, ICERM, Providence, USA, July 2017, poster.
 
-# Referee work
+# Journal referee work
 - Computers and Mathematics,
 - Communications on Applied Mathematics and Computation,
 - Journal of Computational Physics,
