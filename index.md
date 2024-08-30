@@ -19,9 +19,9 @@ I previously held a position in industry where I worked as Senior Software and A
 # Publications
 1. Well-posedness of the Stokes problem under modified pressure Dirichlet boundary conditions. Preprint, 2024.
 1. Weak form Shallow Ice Approximation models with an improved time step restriction. Preprint, 2024.
+1. Stability estimates for radial basis function methods applied to linear scalar conservation laws. Applied Mathematics and Computation, 2025.
 1. An RBF partition of unity method for geometry reconstruction and PDE solution in thin structures. Preprint, 2024.
 1. Meshfree RBF–FD methods for numerical simulation of PDE problems. Journal of Physics, 2024.
-1. Stability estimates for radial basis function methods applied to time-dependent hyperbolic PDEs. Preprint, 2021.
 1. Residual viscosity stabilized RBF-FD methods for solving nonlinear conservation laws. Journal of Scientific Computing, 2022.
 1. An unfitted radial basis function generated finite difference method applied to thoracic diaphragm simulations. Journal of Computational Physics, 2022.
 1. A least squares radial basis function finite difference method with improved stability properties. SIAM Journal on Scientific Computing, 2021.
