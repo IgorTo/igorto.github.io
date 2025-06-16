@@ -1,7 +1,7 @@
 # About me
-My research is focused on analyzing and developing numerical algorithms for solving partial differential equations that find applications in continental ice sheet modeling. 
+My research is focused on analyzing and developing numerical algorithms for solving partial differential equations that find applications in fluid mechanics and biomechanics.
 
-I hold a Ph.D. degree in Scientific Computing with specialization in Numerical Analysis from Uppsala University, Sweden. 
+Between years 2023 and 2025 I was a postdoctoral researcher at Department of Mathematics, Stockholm University. 
 
 I previously held a position in industry where I worked as Senior Software and Algorithm developer at Qamcom Research and Technology.
 
@@ -17,6 +17,7 @@ I previously held a position in industry where I worked as Senior Software and A
 - (2011-2014) B.Sc. Electrical Engineering, University of Ljubljana, Slovenia.
 
 # Publications
+1. Stability analysis of the free-surface Stokes problem and an unconditionally stable explicit scheme. Preprint. 2025
 1. Well-posedness of the Stokes problem under modified pressure Dirichlet boundary conditions. BIT Numerical Mathematics. 2025.
 1. Weak form Shallow Ice Approximation models with an improved time step restriction. Journal of Glaciology. 2025.
 1. Stability estimates for radial basis function methods applied to linear scalar conservation laws. Applied Mathematics and Computation, 2025.
