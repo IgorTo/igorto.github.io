@@ -6,7 +6,7 @@ I aim to improve the robustness and reliability of various computational methods
 
 # Research interests
 - Stability analysis and improvement of numerical schemes.
-- Finite element and meshfree methods.
+- Finite element method and meshfree methods.
 - Coupled and multiphysics PDE models.
 
 # Previous employments
