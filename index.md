@@ -1,15 +1,18 @@
 # About me
-My research is focused on analyzing and developing numerical algorithms for solving partial differential equations that find applications in fluid mechanics and biomechanics.
+I am a research associate at the Jožef Stefan Institute (since August 2025).
+My work focuses on developing and analyzing numerical algorithms for partial differential equations (PDEs) arising in advanced multiphysics problems that carry significant societal relevance, such as in climate, biomedical, and energy applications.
 
-Between years 2023 and 2025 I was a postdoctoral researcher at Department of Mathematics, Stockholm University. 
-
-I previously held a position in industry where I worked as Senior Software and Algorithm developer at Qamcom Research and Technology.
+I aim to improve the robustness and reliability of various computational methods by bridging numerical and functional analysis.
 
 # Research interests
-- Theoretical and computational analysis of numerical methods.
-- PDE model coupling.
-- Computational glaciology.
-- Computational biomechanics.
+- Stability analysis and improvement of numerical schemes.
+- Finite element and meshfree methods.
+- Coupled and multiphysics PDE models.
+
+# Previous employments
+- Postdoc at Department of Mathematics, Stockholm University. (2023-2025)
+- Sr. Software and Algorithm developer at Qamcom Research and Technology (2022-2023)
+- Doctoral candidate at Division of Scientific Computing, Uppsala University. (2017-2022)
 
 # Education
 - (2017-2022) Ph.D. Scientific Computing with specialization in Numerical Analysis, Uppsala University, Sweden.
@@ -39,6 +42,9 @@ I previously held a position in industry where I worked as Senior Software and A
 * Teaching assistant, Scientific Computing II, Winter 2018. Uppsala Univ.
 * Teaching assistant, Computer lab, 2012-2014. University of Ljubljana, Dept. Mathematics and Physics.
 
+# Master Thesis supervision
+- Gregor Kovač (ongoing), Accelerating numerical methods for solving Navier-Stokes equations with physics-informed machine learning, University of Ljubljana, Slovenia.
+
 # Bachelor Thesis supervision
 - Nasiha Häfener, Stabilizing Glacier Simulations: Coupling Free-Surface Stabilization Algorithm to the Positivity Preserving Surface Constraint in FeniCS, Stockholm University, Sweden.
 - Joakim Heumann, A Machine Learning Model Predicting Errors in Simplified Continental Ice Sheet Simulations, KTH, Sweden.
@@ -58,6 +64,7 @@ I previously held a position in industry where I worked as Senior Software and A
 - Kernel-Based PDE methods, ICERM, Providence, USA, July 2017, poster.
 
 # Journal referee work
+- Applied Mathematics and Computation.
 - Computers and Mathematics,
 - Communications on Applied Mathematics and Computation,
 - Journal of Computational Physics,
