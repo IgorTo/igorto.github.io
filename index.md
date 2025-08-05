@@ -1,5 +1,6 @@
 # About me
 I am a research associate at the Jozef Stefan Institute (since August 2025).
+
 My work focuses on developing and analyzing numerical algorithms for partial differential equations (PDEs) arising in advanced multiphysics problems that carry significant societal relevance, such as in climate, biomedical, and energy applications.
 
 I aim to improve the robustness and reliability of various computational methods by bridging numerical and functional analysis.
