@@ -5,9 +5,9 @@ My work focuses on developing and analyzing numerical algorithms for partial dif
 I aim to improve the robustness and reliability of various computational methods by bridging numerical and functional analysis.
 
 # Research interests
-- Stability analysis and improvement of numerical schemes. Maximum time-step estimation. Well-posedness of mixed PDE problems.
-- Finite element method and meshfree methods.
-- Coupled and multiphysics PDE models.
+- Stability of coupled and multiphysics PDE models.
+- Maximum time-step estimation.
+- Well-posedness of mixed PDE problems.
 
 # Previous employments
 - Postdoc at Department of Mathematics, Stockholm University. (2023-2025)
