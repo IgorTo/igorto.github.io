@@ -6,7 +6,7 @@ I aim to improve the robustness and reliability of various computational methods
 
 # Research interests
 - Stability of coupled and multiphysics PDE models.
-- Maximum time-step estimation.
+- Maximum time-step size estimation.
 - Well-posedness of mixed PDE problems.
 
 # Previous employments
