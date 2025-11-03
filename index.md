@@ -51,6 +51,10 @@ I aim to improve the robustness and reliability of various computational methods
 - Joakim Heumann, A Machine Learning Model Predicting Errors in Simplified Continental Ice Sheet Simulations, KTH, Sweden.
 
 # Conferences
+- Multiphysics and mixed-dimensional modeling and discretizations, Oslo, November 2025, invited talk.
+- Opening Conference for Mathematical Challenges in Brain Mechanics, Oslo, August 2025, no talk.
+- BIT '65 conference, Uppsala, January 2025, talk.
+- Scientific Computing in Sweden, Stockholm, September 2024, talk.
 - FEniCS 2024, Oslo, June 2024, contributed talk **(best postdoc talk prize)**.
 - ESCO 2024, Pilsen, June 2024, invited minisymposium talk.
 - EGU Nordic Branch, Helsinki, November 2023, contributed talk.
