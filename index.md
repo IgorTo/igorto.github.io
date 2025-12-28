@@ -1,5 +1,6 @@
 # News
-upd
+[Collaboration]({{ site.baseurl }}/collaboration/)
+
 2025-12-24: Received a "Docent in Mathematics" habilitation by Faculty of Mathematics and Physics at University of Ljubljana.
 
 2025-12-23: Received funding (as PI) for project "Stabilizing multiphysics simulations for cost-effective and reliable metal processing" in collaboration with Faculty of Mechanical Engineering, University of Ljubljana.
