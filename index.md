@@ -18,7 +18,7 @@ My mathematical work is motivated by advanced multiphysics problems that carry s
 - biomedical, 
 - and energy applications.
 
-See [Research]({{ site.baseurl }}/research/) for more specific research interests of mine.
+See page [Research]({{ site.baseurl }}/research/) for more specific research interests of mine.
 
 ### News
 2025-12-24: Received qualification "Docent in Mathematics" from Faculty of Mathematics and Physics at University of Ljubljana.
