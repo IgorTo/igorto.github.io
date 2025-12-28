@@ -16,12 +16,12 @@ I aim to improve the robustness and reliability of various computational methods
 - Well-posedness of mixed PDE problems.
 
 ### News
-2025-12-24: Received a "Docent in Mathematics" habilitation by Faculty of Mathematics and Physics at University of Ljubljana.
+2025-12-24: Received qualification "Docent in Mathematics" from Faculty of Mathematics and Physics at University of Ljubljana.
 
 2025-12-23: Received funding (as PI) for project "Stabilizing multiphysics simulations for cost-effective and reliable metal processing" in collaboration with Faculty of Mechanical Engineering, University of Ljubljana.
 
-2025-11-26: I gave an invited talk at conference "Multiphysics and mixed-dimensional modeling and discretizations" at Simula Research Lab in Oslo.
+2025-11-26: Gave an invited talk at conference "Multiphysics and mixed-dimensional modeling and discretizations" at Simula Research Lab in Oslo.
 
-2025-08-04: I started working at Jozef Stefan Institute, Ljubljana, as Research Associate (tenured).
+2025-08-04: Started working at Jozef Stefan Institute, Ljubljana, as tenured Research Associate.
 
 

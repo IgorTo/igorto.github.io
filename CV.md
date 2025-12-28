@@ -8,6 +8,10 @@ For a list of my publications see [Publications]({{ site.baseurl }}/publications
 
 For a list of courses I teach see [Teaching]({{ site.baseurl }}/teaching/).
 
+### Current status
+- Tenured Research Associate at Jozef Stefan Institute.
+- Qualification "Docent in Mathematics" from Faculty of Mathematics and Physics, University of Ljubljana.
+
 ### Previous employments
 - (2023-2025) Postdoc at Department of Mathematics, Stockholm University.
 - (2022-2023) Sr. Software and Algorithm developer at Qamcom Research and Technology
