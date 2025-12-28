@@ -4,11 +4,15 @@ title: About me
 permalink: /
 ---
 
-I am a tenured Research Associate (Docent) at the Jozef Stefan Institute in Ljubljana.
+I am tenured Research Associate (Docent) at the Jozef Stefan Institute in Ljubljana.
 
-My work focuses on developing and analyzing numerical algorithms for partial differential equations (PDEs) arising in advanced multiphysics problems that carry significant societal relevance, such as in climate, biomedical, and energy applications.
+My research focuses on numerical algorithms for partial differential equations (PDEs) arising in advanced multiphysics problems that carry significant societal relevance in:
 
-I aim to improve the robustness and reliability of various computational methods by bridging numerical and functional analysis.
+- climate, 
+- biomedical, 
+- and energy applications.
+
+I aim to improve the reliability of computational methods such as finite elements, kernel-based methods, and neural networks by bridging numerical and functional analysis.
 
 ### Current research interests:
 - Stability of coupled and multiphysics PDE models.
@@ -18,7 +22,7 @@ I aim to improve the robustness and reliability of various computational methods
 ### News
 2025-12-24: Received qualification "Docent in Mathematics" from Faculty of Mathematics and Physics at University of Ljubljana.
 
-2025-12-23: Received funding (as PI) for project "Stabilizing multiphysics simulations for cost-effective and reliable metal processing" in collaboration with Faculty of Mechanical Engineering, University of Ljubljana.
+2025-12-23: Received funding (as Project leader) for project "Stabilizing multiphysics simulations for cost-effective and reliable metal processing" in collaboration with Faculty of Mechanical Engineering, University of Ljubljana.
 
 2025-11-26: Gave an invited talk at conference "Multiphysics and mixed-dimensional modeling and discretizations" at Simula Research Lab in Oslo.
 

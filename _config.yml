@@ -11,7 +11,7 @@ plugins:
 # Navigation bar links
 header_pages:
   - index.md
+  - research.md
   - collaboration.md
-  - publications.md
   - teaching.md
   - CV.md
