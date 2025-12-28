@@ -10,16 +10,18 @@ My research focuses on numerical methods for partial differential equations (PDE
 - finite elements, 
 - kernel-based methods, 
 - and neural networks, 
+
 by bridging numerical and functional analysis. My mathematical work is motivated by advanced multiphysics problems that carry significant societal relevance in:
+
 - climate, 
 - biomedical, 
 - and energy applications.
 
 
 ### Current research interests:
-- Stability of coupled and multiphysics PDE models.
-- Maximum time-step size estimation.
+- Time-step size estimation for multiphysics problems.
 - Well-posedness of mixed PDE problems.
+- Dimensionality gaps in interior data-informed PDE settings.
 
 ### News
 2025-12-24: Received qualification "Docent in Mathematics" from Faculty of Mathematics and Physics at University of Ljubljana.
