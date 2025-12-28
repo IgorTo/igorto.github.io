@@ -9,7 +9,7 @@ For a list of my publications see [Publications]({{ site.baseurl }}/publications
 For a list of courses I teach see [Teaching]({{ site.baseurl }}/teaching/).
 
 ### Current status
-- Tenured Research Associate at Jozef Stefan Institute.
+- Research Associate (tenured) at Jozef Stefan Institute.
 - Qualification "Docent in Mathematics" from Faculty of Mathematics and Physics, University of Ljubljana.
 
 ### Previous employments
