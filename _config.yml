@@ -10,4 +10,5 @@ plugins:
 
 # Navigation bar links
 header_pages:
+  - index.md
   - collaboration.md
