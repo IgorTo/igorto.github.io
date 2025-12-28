@@ -1,5 +1,9 @@
+# News
+2025-12-24: I received habilitation "Docent in Mathematics" from Faculty of Mathematics and Physics at University of Ljubljana.
+2025-12-23: Grant application approved. I will be PI of project "Stabilizing multiphysics simulations for cost-effective and reliable metal processing".
+
 # About me
-I am a research associate at the Jozef Stefan Institute (since August 2025).
+I am a research associate (Docent) at the Jozef Stefan Institute.
 
 My work focuses on developing and analyzing numerical algorithms for partial differential equations (PDEs) arising in advanced multiphysics problems that carry significant societal relevance, such as in climate, biomedical, and energy applications.
 
