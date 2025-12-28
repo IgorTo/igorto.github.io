@@ -9,10 +9,5 @@ plugins:
   - jekyll-remote-theme
 
 # Navigation bar links
-minima:
-  nav_pages:
-    - index.md
-    - collaboration.md
-    - publications.md
-    - teaching.md
-    - CV.md
+header_pages:
+  - collaboration.md
