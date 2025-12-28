@@ -5,6 +5,7 @@ display_title: Bla
 permalink: /
 ---
 
+### About me
 I am tenured Research Associate (Docent) at the Jozef Stefan Institute in Ljubljana, Slovenia. Before that I was a postdoc at Stockholm University (Computational Mathematics) and a Ph.D. candidate at Uppsala University (Scientific Computing) in Sweden. I completed master studies at Technical University Munich (Computational Science) in Germany.
 
 My research focuses on numerical methods for partial differential equations. 
