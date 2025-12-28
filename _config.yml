@@ -12,3 +12,6 @@ plugins:
 header_pages:
   - index.md
   - collaboration.md
+  - publications.md
+  - teaching.md
+  - cv.md
