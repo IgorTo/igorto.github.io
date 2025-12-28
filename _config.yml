@@ -4,6 +4,10 @@ title: [Igor Tominec]
 logo: /igor.jpg
 #description: [A short description of your site's purpose]
 
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
 # Navigation bar links
 minima:
   nav_pages:
