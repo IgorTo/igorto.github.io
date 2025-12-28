@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+I very much enjoy teaching and working together with the students. In the past, I taught several courses in numerical analysis, scientific computing, and programming, both as the main teacher as well as a teaching assistant.
+
 ### Teaching
 * Lecturer, Numerical Analysis I, Spring 2024. Stockholm Univ.
 * Lecturer, Programming for Physicists, Autumn 2023. Stockholm Univ.

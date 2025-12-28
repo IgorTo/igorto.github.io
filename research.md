@@ -1,8 +1,19 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 ---
+
+
+### Current research interests:
+- Time-step size estimation for multiphysics problems.
+- Lower dimensional data-informed PDEs (stability).
+- Physics informed neural networks.
+
+### Research interests:
+- New theoretical framework for stability analyses of kernel-based methods: elliptic and time-dependent hyperbolic PDEs.
+- Numerical stability aspects of computational ice sheet dynamics.
+- Biomechanical simulation of thoracic diaphragm.
 
 # Publications
 1. Stability analysis of the free-surface Stokes problem and an unconditionally stable explicit scheme. Preprint. 2025
