@@ -10,4 +10,4 @@ plugins:
 
 # Navigation bar links
 header_pages:
-  - _pages/collaboration.md
+  - pages/collaboration.md
