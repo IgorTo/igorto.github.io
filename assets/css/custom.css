@@ -1,0 +1,49 @@
+/* ===== Fixed left sidebar ===== */
+.custom-sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 220px;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding-top: 2rem;
+  background: #fafafa;
+  border-right: 1px solid #e5e5e5;
+}
+
+/* Profile photo */
+.profile-photo {
+  width: 160px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+/* Icons */
+.icon-links {
+  display: flex;
+  gap: 1rem;
+  font-size: 1.3rem;
+}
+
+/* ===== Push page content right ===== */
+.wrapper {
+  margin-left: 240px;
+}
+
+/* ===== Mobile fallback ===== */
+@media (max-width: 900px) {
+  .custom-sidebar {
+    position: relative;
+    width: auto;
+    height: auto;
+    border-right: none;
+  }
+
+  .wrapper {
+    margin-left: 0;
+  }
+}

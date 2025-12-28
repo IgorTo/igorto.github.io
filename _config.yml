@@ -1,8 +1,7 @@
 # theme: jekyll-theme-minimal
 remote_theme: "jekyll/minima@1e8a445"
 title: Igor Tominec
-logo: /igor.jpg
-#description: [A short description of your site's purpose]
+logo: /assets/img/igor.jpg
 
 plugins:
   - jekyll-feed
