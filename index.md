@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-display_title: 
+display_title: Bla
 permalink: /
 ---
 
