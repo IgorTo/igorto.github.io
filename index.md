@@ -12,6 +12,7 @@ permalink: /
   border-radius: 6px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
   margin: 0 0 1em 1em;
+  width: 20%;
 "}
 I am tenured Research Associate (Docent) at the Jozef Stefan Institute in Ljubljana, Slovenia. Before that I was a postdoc at Stockholm University (Computational Mathematics) and a Ph.D. candidate at Uppsala University (Scientific Computing) in Sweden. I completed master studies at Technical University Munich (Computational Science) in Germany.
 
