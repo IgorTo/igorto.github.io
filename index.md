@@ -18,9 +18,9 @@ I am tenured Research Associate (Docent) at the Jozef Stefan Institute in Ljublj
 My research focuses on numerical methods for partial differential equations. 
 By bridging numerical and functional analysis, I aim to improve:
 
-- the stability of finite elements, kernel-based methods, and neural networks.
+- stability of finite elements, kernel-based methods, and neural networks.
 
-My mathematical work is motivated by advanced multiphysics problems that carry significant societal relevance in:
+My mathematical work addresses advanced multiphysics problems that carry significant societal relevance in:
 
 - climate, biomedical, and energy applications.
 
