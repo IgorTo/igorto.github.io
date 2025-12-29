@@ -6,9 +6,15 @@ permalink: /
 ---
 
 ### About me
+![image](igor.jpg){: style="
+  float: right;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  margin: 0 0 1em 1em;
+"}
 I am tenured Research Associate (Docent) at the Jozef Stefan Institute in Ljubljana, Slovenia. Before that I was a postdoc at Stockholm University (Computational Mathematics) and a Ph.D. candidate at Uppsala University (Scientific Computing) in Sweden. I completed master studies at Technical University Munich (Computational Science) in Germany.
 
-![image](igor.jpg){: style="float: right"}
 My research focuses on numerical methods for partial differential equations. 
 By bridging numerical and functional analysis, I aim to improve the reliability of computational methods such as:
 - finite elements, 
