@@ -20,6 +20,8 @@ My mathematical work is motivated by advanced multiphysics problems that carry s
 - biomedical, 
 - and energy applications.
 
+![image](igor.jpg){: style="float: left"}
+
 See page [Research]({{ site.baseurl }}/research/) for more specific research interests of mine and a list of publications.
 
 ### News
