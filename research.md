@@ -17,7 +17,7 @@ My research interests are in numerical mathematics, with an emphasis on the stab
 - Numerical stability and robustness in computational ice sheet dynamics.
 - Biomechanical simulation of the thoracic diaphragm.
 
-# Publications
+### Publications
 1. Stability analysis of the free-surface Stokes problem and an unconditionally stable explicit scheme. Preprint. 2025
 1. Well-posedness of the Stokes problem under modified pressure Dirichlet boundary conditions. BIT Numerical Mathematics. 2025.
 1. Weak form Shallow Ice Approximation models with an improved time step restriction. Journal of Glaciology. 2025.
