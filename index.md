@@ -17,14 +17,7 @@ permalink: /
 I am tenured Research Associate (Docent) at the Jozef Stefan Institute in Ljubljana, Slovenia. Before that I was a postdoc at Stockholm University (Computational Mathematics) and a Ph.D. candidate at Uppsala University (Scientific Computing) in Sweden. I completed master studies at Technical University Munich (Computational Science) in Germany.
 
 My research focuses on numerical methods for partial differential equations. 
-By bridging numerical and functional analysis, I aim to improve:
-
-- stability of finite elements, kernel-based methods, and neural networks.
-
-My mathematical work addresses advanced multiphysics problems that carry significant societal relevance in:
-
-- climate, biomedical, and energy applications.
-
+By bridging numerical and functional analysis, I aim to improve stability of finite elements, kernel-based methods, and neural networks. My mathematical work addresses advanced multiphysics problems that carry significant societal relevance in: climate, biomedical, and energy applications.
 
 See page [Research]({{ site.baseurl }}/research/) for more specific research interests of mine and a list of publications.
 
