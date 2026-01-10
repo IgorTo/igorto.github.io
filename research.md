@@ -4,16 +4,17 @@ title: Research
 permalink: /research/
 ---
 
+My research interests are in numerical mathematics, with an emphasis on the stability of numerical methods for PDEs and on bridging theory with applications, including metal casting, brain fluid dynamics, and ice sheet modeling.
 
-### Current research interests:
-- Time-step size estimation for multiphysics problems.
-- Lower dimensional data-informed PDEs (stability).
-- Physics informed neural networks.
+### Research interests (current):
+- Time-step size estimation and stability constraints for multiphysics problems.
+- Stability and well-posedness of PDEs constrained by data on low-dimensional interior sets (points, curves, surfaces, sparse sensor locations).
+<!-- - Physics informed neural networks. -->
 
-### Research interests:
-- New theoretical framework for stability analyses of kernel-based methods: elliptic and time-dependent hyperbolic PDEs.
-- Numerical stability aspects of computational ice sheet dynamics.
-- Biomechanical simulation of thoracic diaphragm.
+### Research interests (earlier):
+- Development of a theoretical framework for the stability analysis of kernel-based methods for elliptic and time-dependent hyperbolic PDEs.
+- Numerical stability and robustness in computational ice sheet dynamics.
+- Biomechanical simulation of the thoracic diaphragm.
 
 # Publications
 1. Stability analysis of the free-surface Stokes problem and an unconditionally stable explicit scheme. Preprint. 2025
